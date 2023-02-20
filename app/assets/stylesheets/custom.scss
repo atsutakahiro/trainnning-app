@@ -11,6 +11,26 @@ body {
 }
 
 #logo {
+  font-weight:bold;
+  font-style: italic;
+  font-size: 30px;
   color: red;
 }
+.container {
+  height: 10px;
+}
+
+/* debug */
+
+.debug_dump {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin-top: 500px;
+  -moz-box-sizing:    border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing:         border-box;
+}
+
+
 
