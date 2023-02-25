@@ -11,6 +11,8 @@ gem 'bcrypt'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
